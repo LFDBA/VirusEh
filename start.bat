@@ -1,0 +1,1 @@
+start "" cmd /c "echo Hello innocent little student. My name is Finley Niels Bisschoff of 13CHN, 021 029 16876, I am currently very mad at the IT department. The IT department ain't got nothin on me. Let them know by showing this message to Mr. Clarke. Spread the word&echo(&pause"
